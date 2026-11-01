@@ -1369,5 +1369,11 @@ Farah `.fah` now has a coherent proposed language foundation: syntax, lexical ru
 
 The next formalization milestone is a complete normative grammar and semantic rulebook, followed by a working compiler that can demonstrate that these design decisions are practical.
 
+
+
+
 ## *** ##
+
+
+
 
